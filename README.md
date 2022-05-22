@@ -13,7 +13,7 @@
   + Performance holds in : 
     + No Use of Canvas
     + No Use of external Library
-    + Demo holds in one single file [ CSS, Gfxs, HTML, JS Code ]
+    + Demo holds in _one single file_ [ CSS, Gfxs, HTML, JS Code ]
   + Particularity :
     + A Small/tiny Humble kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
     + Checkerboard is 100% made and animated in Full CSS : No additionnal Gfxs or stuff for it !
