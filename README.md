@@ -17,7 +17,7 @@
     + Checkerboard is __100% made and animated in Full CSS__ : No additionnal Gfxs or stuff for it !
   + Particularity :
     + A *Small/tiny-Humble* kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
-    + Like at "good old time", text is based on an ASCII-Ordered and embedded bitmap 16x16 font...Where i move a X-Offset inside to Draw characters 
+    + Like at "good old time Scrolltexts", text is drawn on the fly with an ASCII-Ordered and embedded bitmap 16x16 font...Where i move a X-Offset inside to Draw characters 
       on the fly with a simple 'img' tag ! [ Thx to an HTML-Hack i discovered few months ago with Scrolltexts experiments ! ]
     + Unfortunatly : no sound, or only the 'desert sound' - I had no more place [ 4Kb was my frontier ] to add a kind of HTML-audio-generated-soundchip... 👎
   + Story :
@@ -27,14 +27,14 @@
     + I planned to present this screen for the Revision 2022...But due to a strong covid in 23th of march, i gave up...
     + And Long-Long time ago, in a far-far-far away galaxy : i started coding and experiments in GFA-Basic and ASM on an Atari ST :) 🦖
   + Parental Advisory :-) : 
-    + This is "Dirty" HTML, no headers, no closing "</body>" tag, etc...So, it's 100% not at all W3C validated - It is size-optimized...
-    + ...and not responsive too => Don't even try to resize your window during playing, it'll screw the demo correct playing !!!
+    + This is *"Dirty" HTML*, no headers, no closing "</body>" tag, etc...So, it's __100% not at all W3C validated__ - It is size-optimized...
+    + ...and not responsive too => Don't even try to __resize your window during playing, it'll screw the demo correct playing !!!__
     + Proudly tested on an I5-4590/8Gb RAM + 512Gb Graphic Card
-    + Best rendering on : Linux/Chrome, Linux/Chromium, W8.1/Chrome, W8.1/Chromium.
+    + __Best rendering on : Linux/Chrome, Linux/Chromium, W8.1/Chrome, W8.1/Chromium.__
     + Weird rendering on : Linux/Firefox [ weird & slow ], W8.1/Edge[ weird behaviour ], W8.1/Firefox [ a bit Weird ]
     + Tested on LED 1920x1080 & LCD 1680x1050
 
-With no doubt : i dedicate this screen to PEOPLE OF UKRAINE FIGHTING 4 THEIR FREEDOM.
+With no doubt : i dedicate this screen to __PEOPLE OF UKRAINE FIGHTING 4 THEIR FREEDOM.__
 
 Thx 4 reading me,
 Franck A.K.A. Capt'n Furax
