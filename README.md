@@ -14,9 +14,9 @@
     + __No Use of Canvas__
     + __No Use of External Library__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
     + Demo holds in __one single file__ [ CSS, Gfxs, HTML, JS Code ]
+    + Checkerboard is __100% made and animated in Full CSS__ : No additionnal Gfxs or stuff for it !
   + Particularity :
     + A *Small/tiny-Humble* kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
-    + Checkerboard is 100% made and animated in Full CSS : No additionnal Gfxs or stuff for it !
     + Like at "good old time", text is based on an ASCII-Ordered and embedded bitmap 16x16 font...Where i move a X-Offset inside to Draw characters 
       on the fly with a simple 'img' tag ! [ Thx to an HTML-Hack i discovered few months ago with Scrolltexts experiments ! ]
     + Unfortunatly : no sound, or only the 'desert sound' - I had no more place [ 4Kb was my frontier ] to add a kind of HTML-audio-generated-soundchip... 👎
