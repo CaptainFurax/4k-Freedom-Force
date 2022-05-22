@@ -37,7 +37,6 @@
 With no doubt : i dedicate this screen to __PEOPLE OF UKRAINE FIGHTING 4 THEIR FREEDOM.__
 
 
-Thx 4 reading me,
-Franck A.K.A. Capt'n Furax
+Thx 4 reading me,####Franck A.K.A. Capt'n Furax
 
 
