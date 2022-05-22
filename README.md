@@ -1,4 +1,4 @@
-# Freedom-Force-4k
+# 4k-Freedom-Force
 
 ![4k Freedom Force](https://github.com/CaptainFurax/Freedom-Force-4k/blob/main/CPT2205222101-1680x863.png)
 
