@@ -11,14 +11,32 @@
     + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/Freedom-Force-4k/)
     + If interested, a readable source file is available : 03_4k-Freedom-Force_Readable_Src.html
   + Performance holds in : 
-      + No Use of Canvas
-      + No Use of external Library
-      + Demo holds in one single file [ CSS, Gfxs, HTML, JS Code ]
+    + No Use of Canvas
+    + No Use of external Library
+    + Demo holds in one single file [ CSS, Gfxs, HTML, JS Code ]
   + Particularity :
     + A Small/tiny Humble kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
     + Checkerboard is 100% made and animated in Full CSS : No additionnal Gfxs or stuff for it !
     + Like at "good old time", text is based on an ASCII-Ordered and embedded bitmap 16x16 font...Where i move a X-Offset inside to Draw characters 
       on the fly with a simple 'img' tag ! [ Thx to an HTML-Hack i discovered few months ago with Scrolltexts experiments ! ]
-    + Unfortunatly : no sound, or only the 'desert sound' - I had no more place [ 4Kb was my frontier ] to add a kind of HTML-audio-generated-soundchip...
+    + Unfortunatly : no sound, or only the 'desert sound' - I had no more place [ 4Kb was my frontier ] to add a kind of HTML-audio-generated-soundchip... 👎
+  + Story :
+    + I started experiments to reproduce Old School Demo Fx in 'pure' HTML/CSS/JS such as rasters, scrolltexts, checkerboard, etc...during first Covid
+      lockdown.
+    + The only thing i didn't succeed to reproduce at this time, in 'pure' HTML/CSS/JS is a Plasma Fx...
+    + I planned to present this screen for the Revision 2022...But due to a strong covid in 23th of march, i gave up...I am still recovering in fact.
+    + And Long-Long time ago, in a far-far-far away galaxy : i started coding and experiments in GFA-Basic and ASM on an Atari ST :) 🦖
+  + Parental Advisory :-) : 
+    + This is "Dirty" HTML, no headers, no closing "</body>" tag, etc...So, it's 100% not at all W3C validated - It is size-optimized...
+    + ...and not responsive too => Don't even try to resize your window during playing, it'll screw the demo correct playing !!!
+    + Proudly tested on an I5-4590/8Gb RAM + 512Gb Graphic Card
+    + Best rendering on : Linux/Chrome, Linux/Chromium, W8.1/Chrome, W8.1/Chromium.
+    + Weird rendering on : Linux/Firefox [ weird & slow ], W8.1/Edge[ weird behaviour ], W8.1/Firefox [ a bit Weird ]
+    + Tested on LED 1920x1080 & LCD 1680x1050
+
+With no doubt : i dedicate this screen to PEOPLE OF UKRAINE FIGHTING 4 THEIR FREEDOM.
+
+Thx 4 reading me,
+Franck A.K.A. Capt'n Furax
 
 
