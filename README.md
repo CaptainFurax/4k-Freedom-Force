@@ -11,11 +11,11 @@
     + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/4k-Freedom-Force/)
     + If interested, a readable source file is available : 03_4k-Freedom-Force_Readable_Src.html
   + Performance holds in : 
-    + No Use of __Canvas__
-    + No Use of __External Library__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
+    + __No Use of Canvas__
+    + __No Use of External Library__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
     + Demo holds in __one single file__ [ CSS, Gfxs, HTML, JS Code ]
   + Particularity :
-    + A Small/tiny Humble kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
+    + A *Small/tiny-Humble* kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
     + Checkerboard is 100% made and animated in Full CSS : No additionnal Gfxs or stuff for it !
     + Like at "good old time", text is based on an ASCII-Ordered and embedded bitmap 16x16 font...Where i move a X-Offset inside to Draw characters 
       on the fly with a simple 'img' tag ! [ Thx to an HTML-Hack i discovered few months ago with Scrolltexts experiments ! ]
