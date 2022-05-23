@@ -8,7 +8,7 @@
   + "4k Freedom Force - An Old School Tribute"
     + Demo file is : "4k-Freedom-Force.html" or "index.html"
     + Size file is : 4081bytes 
-    + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/4k-Freedom-Force/)
+    + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/4k-Freedom-Force/) (best view on Chrome, __Won't work on Safari!__)
     + If interested, a readable source file is available : 03_4k-Freedom-Force_Readable_Src.html
   + Performance holds in : 
     + __No Use of Canvas__
