@@ -3,9 +3,7 @@
 ![4k Freedom Force](https://github.com/CaptainFurax/Freedom-Force-4k/blob/main/CPT2205222101-1680x863.png)
 
 + Hello From Montpellier, south of France :)
-+ Here's my humble participation to the Outline 2022 with :
-
-  + "4k Freedom Force - An Old School Tribute"
++ Here's my humble participation to the Outline 2022 with : __"4k Freedom Force - An Old School Tribute"__
     + Demo file are : "4k2f.html" or "index.html" for github
     + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/4k-Freedom-Force/) (__Best view on Chrome - Won't work on Safari!__)
     + If interested, a readable source file is available : 4k2f-readable.html
