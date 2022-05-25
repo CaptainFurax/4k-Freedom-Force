@@ -12,7 +12,7 @@
   + Performance holds in : 
     + __No Use of Canvas__
     + __No Use of External Library__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
-    + Every things : CSS, Gfxs, HTML, JS Code hold in __one single file of 4096bytes__ 
+    + Everything : CSS, Gfxs, HTML, JS Code hold in __one single file of 4096bytes__ 
     + Checkerboard is __100% made and animated in Full CSS__ : No additionnal Gfxs or stuff for it !
   + Tech Specs :
     + A *Small/tiny-Humble* kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
