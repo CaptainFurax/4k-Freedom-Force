@@ -8,7 +8,7 @@
   + "4k Freedom Force - An Old School Tribute"
     + Demo file are : "4k2f.html" or "index.html" for github
     + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/4k-Freedom-Force/) (__Best view on Chrome - Won't work on Safari!__)
-    + If interested, a readable source file is available : 4k2f_readable.html
+    + If interested, a readable source file is available : 4k2f-readable.html
   + Performance holds in : 
     + __No Use of Canvas__
     + __No Use of External Library__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
