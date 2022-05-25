@@ -16,7 +16,7 @@
     + Checkerboard is __100% made and animated in Full CSS__ : No additionnal Gfxs or stuff for it !
   + Tech Specs :
     + A *Small/tiny-Humble* kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
-    + Like at "good old time Scrolltexts", text is drawn __'on the fly' with an ASCII-Ordered and embedded bitmap 16x16 font...__Where an X-Offset is moved inside to Draw characters with a simple __'img' tag !__ [ Thx to an HTML-Hack i discovered few months ago with Scrolltexts experiments ! ]
+    + Like at "good old time Scrolltexts", text is drawn 'on the fly' __with an ASCII-Ordered and embedded__ bitmap 16x16 font...Where an X-Offset is moved inside to Draw characters with a simple __'img' tag !__ [ Thx to an HTML-Hack i discovered few months ago with Scrolltexts experiments ! ]
     + Unfortunatly : no sound, or only the 'desert sound' - I had no more place [ 4Kb was my frontier ] to add a kind of HTML-audio-generated-soundchip... 👎
   + Story :
     + I started experiments to reproduce Old School Demo Fx in 'pure' HTML/CSS/JS such as rasters, scrolltexts, checkerboard, etc...during first Covid
