@@ -9,7 +9,7 @@
   + If interested, a readable source file is available : 4k2f-readable.html
 ### Performance holds in :
    + __No Use of Canvas__
-   + __No Use of External Libraries__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
+   + __No Use of External Libraries__ [ such as p5.js, three.js, phaser.io, zim, pixi.js, etc... ]
    + Everything : CSS, Gfxs, HTML, JS Code hold only in __one single file of 4096bytes__ 
    + Checkerboard is __100% made and animated in Full CSS__ : No additionnal Gfxs or stuff for it !
 ### Tech Specs :
