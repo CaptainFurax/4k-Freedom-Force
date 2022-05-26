@@ -10,11 +10,11 @@
     + If interested, a readable source file is available : 4k2f-readable.html
   + Performance holds in : 
     + __No Use of Canvas__
-    + __No Use of External Library__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
-    + Everything : CSS, Gfxs, HTML, JS Code hold in __one single file of 4096bytes__ 
+    + __No Use of External Libraries__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
+    + Everything : CSS, Gfxs, HTML, JS Code hold only in __one single file of 4096bytes__ 
     + Checkerboard is __100% made and animated in Full CSS__ : No additionnal Gfxs or stuff for it !
   + Tech Specs :
-    + A *Small/tiny-Humble* kind of '3D Engine' for the 4 'dotball' objects is 'embedded' with few procedural functions :)
+    + A *Small/tiny-Humble* kind of '3D Engine' for the 5 'dotball' objects is 'embedded' with few procedural functions :)
     + Like at "good old time Scrolltexts", __text is stored in an Array and its characters are drawn 'on the fly' with an ASCII-Ordered and embedded__ bitmap 16x16 font...Where an X-Offset[ the character code ] is moved inside bitmap to select and draw characters with a simple __'img' tag !__ [ Thx to an HTML-trick/hack i discovered few months ago with Scrolltexts experiments ! ]
     + Unfortunatly : no sound, or only the 'desert sound' - I had no more place [ 4Kb was my frontier ] to add a kind of HTML-audio-generated-soundchip... 👎
   + Story :
