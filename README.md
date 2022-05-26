@@ -1,4 +1,4 @@
-# 4k-Freedom-Force
+#### 4k-Freedom-Force
 
 ![4k Freedom Force](https://github.com/CaptainFurax/4k-Freedom-Force/blob/main/screenshot.png)
 
