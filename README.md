@@ -30,8 +30,7 @@
    + __Won't work at all on Apple/Safari -> Worst, it can freeze your browser.__
    + Tested on LED 1920x1080 & LCD 1680x1050
 
-With no doubt : i dedicate this screen to __PEOPLE OF UKRAINE FIGHTING 4 THEIR FREEDOM.__
-
+## With no doubt : i dedicate this screen to PEOPLE OF UKRAINE FIGHTING 4 THEIR FREEDOM.
 
 Thx 4 reading me,  
 Franck A.K.A. Capt'n Furax
