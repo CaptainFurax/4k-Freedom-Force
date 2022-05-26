@@ -7,7 +7,7 @@
   +  Demo files are : "4k2f.html" or "index.html" for github
   + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/4k-Freedom-Force/) (__Best view on Chrome - Won't work on Safari!__)
   + If interested, a readable source file is available : 4k2f-readable.html
-    ### Performance holds in :
+    ### + Performance holds in :
         + __No Use of Canvas__
         + __No Use of External Libraries__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
         + Everything : CSS, Gfxs, HTML, JS Code hold only in __one single file of 4096bytes__ 
