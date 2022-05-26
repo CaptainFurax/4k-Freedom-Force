@@ -7,21 +7,21 @@
   +  Demo files are : "4k2f.html" or "index.html" for github
   + [.oO° 4k Freedom Force Online Demo °Oo.](https://captainfurax.github.io/4k-Freedom-Force/) (__Best view on Chrome - Won't work on Safari!__)
   + If interested, a readable source file is available : 4k2f-readable.html
-    + ### Performance holds in :
+    + Performance holds in :
         + __No Use of Canvas__
         + __No Use of External Libraries__ [ such as p5.js, phaser.io, zim, pixi.js, etc... ]
         + Everything : CSS, Gfxs, HTML, JS Code hold only in __one single file of 4096bytes__ 
         + Checkerboard is __100% made and animated in Full CSS__ : No additionnal Gfxs or stuff for it !
-    ### Tech Specs :
+    + Tech Specs :
         + A *Small/tiny-Humble* kind of '3D Engine' for the 5 'dotball' objects is 'embedded' with few procedural functions :)
         + Like at "good old time Scrolltexts", __text is stored in an Array and its characters are drawn 'on the fly' with an ASCII-Ordered and embedded__ bitmap 16x16 font...Where an X-Offset[ the character code ] is moved inside bitmap to select and draw characters with a simple __'img' tag !__ [ Thx to an HTML-trick/hack i discovered few months ago with Scrolltexts experiments ! ]
         + Unfortunatly : no sound, or only the 'desert sound' - I had no more place [ 4Kb was my frontier ] to add a kind of HTML-audio-generated-soundchip... 👎
-    ### Story :
+    + Story :
         + I started experiments __to reproduce Old School Demo Fx in 'pure' HTML/CSS/JS__ such as rasters, scrolltexts, checkerboard, etc...during first Covid lockdown.
         + At this time, the only thing i didn't succeed to reproduce, in 'pure' HTML/CSS/JS is a Plasma Fx...
         + I planned to present this screen for the Revision 2022...But due to a strong covid in 23th of march, i gave up...
         + And Long-Long time ago, in a far-far-far away galaxy : i started coding and experiments in GFA-Basic and ASM on an Atari ST :) 🦖
-    ### __Parental Advisory !!! :-)__ 
+    + __Parental Advisory !!! :-)__ 
         + This is *"Dirty" HTML*, no headers, no closing "</body>" tag, etc...So, it's __100% not at all W3C validated__ - It is size-optimized...
         + ...and not responsive too => Don't even try to __resize your window during playing, it'll screw the demo correct playing !!!__
         + Proudly tested on an I5-4590/8Gb RAM + 512Mb Graphic Card
