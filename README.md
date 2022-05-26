@@ -22,13 +22,13 @@
    + I planned to present this screen for the Revision 2022...But due to a strong covid in 23th of march, i gave up...
    + And Long-Long time ago, in a far-far-far away galaxy : i started coding and experiments in GFA-Basic and ASM on an Atari ST :) 🦖
 ### Parental Advisory !!! :-) 
-    + This is *"Dirty" HTML*, no headers, no closing "</body>" tag, etc...So, it's __100% not at all W3C validated__ - It is size-optimized...
-    + ...and not responsive too => Don't even try to __resize your window during playing, it'll screw the demo correct playing !!!__
-    + Proudly tested on an I5-4590/8Gb RAM + 512Mb Graphic Card
-    + __Best rendering on : Linux/Chrome, Linux/Chromium, W8.1/Chrome, W8.1/Chromium.__
-    + Weird rendering on : Linux/Firefox [ weird & slow ], W8.1/Edge[ weird behaviour ], W8.1/Firefox [ a bit Weird ]
-    + __Won't work at all on Apple/Safari -> Worst, it can freeze your browser.__
-    + Tested on LED 1920x1080 & LCD 1680x1050
+   + This is *"Dirty" HTML*, no headers, no closing "</body>" tag, etc...So, it's __100% not at all W3C validated__ - It is size-optimized...
+   + ...and not responsive too => Don't even try to __resize your window during playing, it'll screw the demo correct playing !!!__
+   + Proudly tested on an I5-4590/8Gb RAM + 512Mb Graphic Card
+   + __Best rendering on : Linux/Chrome, Linux/Chromium, W8.1/Chrome, W8.1/Chromium.__
+   + Weird rendering on : Linux/Firefox [ weird & slow ], W8.1/Edge[ weird behaviour ], W8.1/Firefox [ a bit Weird ]
+   + __Won't work at all on Apple/Safari -> Worst, it can freeze your browser.__
+   + Tested on LED 1920x1080 & LCD 1680x1050
 
 With no doubt : i dedicate this screen to __PEOPLE OF UKRAINE FIGHTING 4 THEIR FREEDOM.__
 
